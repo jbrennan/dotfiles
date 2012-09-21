@@ -1,0 +1,7 @@
+[user]
+	email = i.jasonbrennan@gmail.com
+	name = Jason Brennan
+[core]
+	excludesfile = /Users/jbrennan/.gitignore
+[gui]
+	recentrepo = /Users/jbrennan/cocoa/VernacularOracular
