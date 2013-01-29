@@ -10,6 +10,6 @@ Development
 2. Install the Command Line Tools from Xcode.
 3. Disable documentation downloads in Xcode.
 4. Install Homebrew.
-5. Install rbenv, ruby-build, ruby 1.9.3-p327 (or higher).
+5. Install rbenv, ruby-build, ruby 1.9.3-p327 (or higher). Then install the `bundler` gem to the **system** (`sudo gem install bundler`).
 6. Set up SSH keys for Github.
 7. Clone important repos (like this one!).
